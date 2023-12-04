@@ -28,6 +28,6 @@ Upon successful login, the navigation bar displays the user's name and profile p
 
 ## Credits
 This project was developed based on the tutorial
-"React Social Login with Passport.js | React OAuth w/ Google, Facebook, Github" by [Tutorial Creator's Name](https://youtu.be/7K9kDrtc4S8?si=MFzaU-zUEVSSbeS3). 
+"React Social Login with Passport.js | React OAuth w/ Google, Facebook, Github" by [Lama Dev](https://youtu.be/7K9kDrtc4S8?si=MFzaU-zUEVSSbeS3). 
 A special thanks for providing valuable insights and guidance throughout the learning process.
 If you find this project helpful, consider checking out the original tutorial on [YouTube](https://youtu.be/7K9kDrtc4S8?si=MFzaU-zUEVSSbeS3).
